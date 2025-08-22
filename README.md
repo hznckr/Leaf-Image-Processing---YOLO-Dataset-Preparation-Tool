@@ -60,4 +60,15 @@ For more information and resources, visit the official Flavia project page:
 4.Run the application
 
      python main.py
-    
+
+
+---
+
+## Screenshots
+
+### Main Application Interface
+![Main Interface](images/main_window.png)
+
+### Example of Filter Applied
+![Filter Example](images/filter_example.png)
+
